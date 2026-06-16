@@ -1,0 +1,1 @@
+# household-energy-consumption-tracker
