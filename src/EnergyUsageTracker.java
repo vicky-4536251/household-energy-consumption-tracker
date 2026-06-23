@@ -1,4 +1,4 @@
-package groupassignment;
+
 
 
 public class EnergyUsageRecord {
